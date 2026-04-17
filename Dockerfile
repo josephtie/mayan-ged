@@ -1,4 +1,4 @@
-FROM mayanedms/mayanedms:latest
+FROM mayanedms/mayanedms:4.11.1
 
 USER root
 
